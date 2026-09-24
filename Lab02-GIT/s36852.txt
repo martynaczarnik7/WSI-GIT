@@ -1,1 +1,1 @@
-Name: Martyna [Twoje nazwisko] 
+"Name: Martyna Czarnik\nStudent ID: s36852\nUniversity: PJATK\nCourse: Informatyka\nGroup: WSI-Lab02" 
