@@ -1,1 +1,5 @@
-"Name: Martyna Czarnik\nStudent ID: s36852\nUniversity: PJATK\nCourse: Informatyka\nGroup: WSI-Lab02" 
+Imię i nazwisko: Martyna Czarnik
+ID studenta: s36852
+Uniwersytet: PJATK
+Kurs: Informatyka
+Grupa: WSI-Lab02
